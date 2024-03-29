@@ -1,0 +1,6 @@
+@WSExample.Server_HostAddress = http://localhost:5263
+
+GET {{WSExample.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
